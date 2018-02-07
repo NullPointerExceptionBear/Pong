@@ -1,0 +1,17 @@
+#top{
+	margin-left: 10%;
+	margin-right: 10%;
+	text-align: center;
+}
+#main{
+	text-align: center;
+}
+#cvs{
+	border: 1px solid #000000;
+	display: block;
+	margin: auto;
+}
+
+#plyr2Up{
+	margin-left: 20%;
+}
